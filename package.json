@@ -1,0 +1,20 @@
+{
+  "name": "metron_slack_app",
+  "version": "1.0.0",
+  "description": "Slack App to notify when new variabilities comes in NVD",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.22.0",
+    "@slack/web-api": "^7.5.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.7"
+  }
+}
