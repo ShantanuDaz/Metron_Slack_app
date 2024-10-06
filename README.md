@@ -2,6 +2,8 @@
 
 Slack App to notify when new variabilities comes in NVD
 
+For **DEMO** please check out ![demo.pdf](demo.pdf) in the repo.
+
 For make this work please clone the repo and follow the below steps :-
 
 1. **Clone** the repo.
